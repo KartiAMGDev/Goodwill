@@ -1,1 +1,6 @@
 Initial
+newhello
+
+:wq
+clear
+
